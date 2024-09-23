@@ -1,0 +1,6 @@
+[book]
+authors = ["dsorvq"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MIT xv6 6.828 labs solutions"
